@@ -11,6 +11,6 @@ I have learnt Linux and Bash Scripting so far.
 - [Project 1](https://github.com/DevOps-academy-Course/Demo-Git)
 - [Project 2](https://github.com/DevOps-academy-Course/First-repository)
 
-- ## Contact
+## Contact
 - Email: regilbert002@gmail.com.
 - Phone number: xxxxxxx085
