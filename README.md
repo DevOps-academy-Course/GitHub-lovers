@@ -1,7 +1,7 @@
 # Welcome to my Demo Git-Hub Lovers Site!
 This is a basic website hosted on GitHub using the `README.md` file.
 ## About me
-Iam a DevOps Engineer passionate about open source projects.
+I am a DevOps Engineer passionate about open source projects.
 
 ## Projects
 - [Project 1](https://github.com/DevOps-academy-Course/Demo-Git)
