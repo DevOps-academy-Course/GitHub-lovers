@@ -2,7 +2,9 @@
 This is a basic website hosted on GitHub using the `README.md` file.
 ## About me
 I am a DevOps Engineer passionate about open source projects.
+
 I started October 2024.
+
 I have learnt Linux and Bash Scripting so far.
 
 ## Projects
